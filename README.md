@@ -2,7 +2,7 @@
 💠 Smart contract for the STARK ($STARK) token — a fast and secure Layer 2 DeFi coin built on Ethereum.
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2025] [Stark Investments]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
